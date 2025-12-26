@@ -8,4 +8,4 @@
 
 [Лабораторная №4 - обучения модели, бинарная классификация на принятие кредита](https://github.com/tostor16/TIPiS_LETI/tree/main/lab4_TIPiS)
 
-[Лабораторная №5 - vетрики качества и алгоритмы дерева решений на успеваемости студентов](https://github.com/tostor16/TIPiS_LETI/tree/main/lab5_TIPiS)
+[Лабораторная №5 - метрики качества и алгоритмы дерева решений на успеваемости студентов](https://github.com/tostor16/TIPiS_LETI/tree/main/lab5_TIPiS)
